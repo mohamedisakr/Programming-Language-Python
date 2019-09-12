@@ -1,0 +1,7 @@
+﻿вводится с клавиатуры трехзначное число и по нему строится новое число следующим образом находим сумму цифр стоящих в младшим разрядах
+
+a three-digit number is entered from the keyboard and a new number is constructed from it; as follows, we find the sum of the digits in the lower digits
+
+01-Three-Lower-Digits.py
+
+02-Collatz-Conjecture.py
