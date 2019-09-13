@@ -1,11 +1,10 @@
-from math import factorial
-
+# Method 2
 n = int(input())
 for i in range(1, n+1):
     c = 1
     for j in range(1, i+1):
         print(c, end=' ')
-        c = int((c*(i-j))/j)
+        c = int((c*(i-j)) // j)
     print()
 
 # Method 1
